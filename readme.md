@@ -1,4 +1,6 @@
-# Hapi Faker ![Coveralls](https://coveralls.io/repos/alanhoff/node-hapi-faker/badge.svg) ![Travis](https://travis-ci.org/alanhoff/node-hapi-faker.svg)
+# Hapi Faker 
+[![Coverage Status](https://coveralls.io/repos/alanhoff/node-hapi-faker/badge.svg?branch=master)][2]
+[![Travis](https://travis-ci.org/alanhoff/node-hapi-faker.svg)][1]
 
 Hapi Faker helps you to create fake data to easily mock or test API endpoints.
 
@@ -149,3 +151,5 @@ ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 [0]: https://github.com/pateketrueke/json-schema-faker
+[1]: https://travis-ci.org/alanhoff/node-hapi-faker
+[2]: https://coveralls.io/r/alanhoff/node-hapi-faker?branch=master
