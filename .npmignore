@@ -1,0 +1,7 @@
+**/*
+!LICENSE
+!package.json
+!index.js
+!lib/**/*
+!readme.md
+!.npmignore
