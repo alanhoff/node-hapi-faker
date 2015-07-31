@@ -1,6 +1,6 @@
 {
   "name": "hapi-faker",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Reply with fake data to easily create and mock endpoints",
   "main": "index.js",
   "scripts": {
