@@ -1,6 +1,6 @@
 {
   "name": "hapi-faker",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Reply with fake data to easily create and mock endpoints",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,6 @@
   },
   "homepage": "https://github.com/alanhoff/node-hapi-faker",
   "devDependencies": {
-    "bluebird": "^2.9.26",
     "chai": "^2.3.0",
     "coveralls": "^2.11.2",
     "hapi": "^8.5.1",
@@ -35,6 +34,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
+    "bluebird": "^2.9.26",
     "faker": "^2.1.3",
     "joi": "^6.4.2",
     "json-schema-faker": "^0.1.10",
